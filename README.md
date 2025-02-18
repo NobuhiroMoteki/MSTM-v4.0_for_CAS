@@ -158,7 +158,7 @@ The BH83 and MI02 respectively refer to the following books:
 - Bohren and Huffman 1983, Absorption and Scattering of Light by Small Particles
 - Mishchenko, Travis, and Lacis 2002, Scattering, Absorption, and Emission of Light by Small Particles, 3rd electronic release.
 
-The Complex Amplitude Sensing:
+The Complex Amplitude Sensing (particle measurement technique):
 
--Moteki, N. (2021). Measuring the complex forward-scattering amplitude of single particles by self-reference interferometry: CAS-v1 protocol. Optics Express, 29(13), 20688-20714, https://doi.org/10.1364/OE.423175
--Moteki, N., & Adachi, K. (2024). Measuring the polarized complex forward-scattering amplitudes of single particles in unbounded fluid flow: CAS-v2 protocol. Optics Express, 32(21), 36500-36522, https://doi.org/10.1364/OE.533776.
+- Moteki, N. (2021). Measuring the complex forward-scattering amplitude of single particles by self-reference interferometry: CAS-v1 protocol. Optics Express, 29(13), 20688-20714, https://doi.org/10.1364/OE.423175
+- Moteki, N., & Adachi, K. (2024). Measuring the polarized complex forward-scattering amplitudes of single particles in unbounded fluid flow: CAS-v2 protocol. Optics Express, 32(21), 36500-36522, https://doi.org/10.1364/OE.533776.
