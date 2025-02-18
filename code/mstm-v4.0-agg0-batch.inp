@@ -1,0 +1,27 @@
+output_file
+./mstm_out_files/mstm_res_wl0=0.6328_m_med=1.33154_agg_num=0_k=0.950_Df=2.35_meanRp=0.020um_rstdRp=0.10_Np=00020_Rve=0.052um_Rg=0.070um_epsagg=0.807_real_ref_index=2.21_imag_ref_index=0.56.out
+number_spheres
+20
+sphere_data_input_file
+./aggregate_ptsa_files/agg_num=0_k=0.950_Df=2.35_meanRp=0.020um_rstdRp=0.10_Np=00020_Rve=0.052um_Rg=0.070um_epsagg=0.807.ptsa
+print_sphere_data
+f
+random_orientation
+f
+incident_beta_deg
+0.d0
+incident_alpha_deg
+0.d0
+calculate_scattering_matrix
+t
+scattering_map_model
+0
+scattering_map_increment
+90
+fft_translation_option
+t
+length_scale_factor
+13.221101
+ref_index_scale_factor
+(2.21, 0.56)
+end_of_options

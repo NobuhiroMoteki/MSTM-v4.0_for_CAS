@@ -1,0 +1,53 @@
+****************************************************
+****************************************************
+ mstm calculation results
+ date, time:
+20250218 173450.711 
+ input file:
+mstm-v4.0.inp
+****************************************************
+ input variables for run     1
+ sphere data input file:
+temp_pos.dat
+ number spheres
+    2
+ length, ref index scale factors
+  7.5340000E+00  1.0000000E+00  0.0000000E+00
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  1.8984478E+00  1.5068000E+00  4.5204000E+00  1.8984478E+00
+ sphere properties and associations
+   sphere    host   layer radius     x       y       z           ref indx
+       1       0       0   1.507   0.000   0.000   0.000  1.5800E+00  0.0000E+00
+       2       0       0   1.507   3.014   0.000   0.000  1.5800E+00  0.0000E+00
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3        60
+ mean sphere Mie extinction, absorption efficiencies
+  1.0525E+00 -4.4409E-16
+****************************************************
+ calculation results for run 
+           1
+ number iterations, error, solution time 
+     3  1.8740E-08  1.1714E-03
+ sphere extinction, absorption, volume absorption efficiencies (unpolarized incidence)
+   sphere    Qext        Qabs        Qvabs
+       1  9.9544E-01 -9.4765E-17 -9.4765E-17
+       2  9.9544E-01 -8.0272E-17 -8.0272E-17
+ total extinction, absorption, scattering efficiencies (unpol, par, perp incidence)
+  1.2542E+00 -1.1027E-16  1.2542E+00  1.4680E+00 -1.9433E-16  1.4680E+00  1.0404E+00 -2.6202E-17  1.0404E+00
+ scattering matrix in incident plane: 0 deg = incident direction
+ forward scattering amplitude matrix (BH83,Eq3.12) 
+(  0.9374E+00, -0.2605E+01) (  0.1323E+01, -0.2460E+01) (  0.2317E-15,  0.7899E-16) ( -0.2013E-16,  0.1609E-16) 
+ backward scattering amplitude matrix (BH83,Eq3.12) 
+(  0.1150E+00, -0.1327E+00) ( -0.5346E+00, -0.1348E+00) (  0.2162E-15,  0.2345E-16) ( -0.4581E-16,  0.5688E-16) 
+

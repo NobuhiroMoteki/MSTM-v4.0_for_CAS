@@ -1,0 +1,45 @@
+****************************************************
+****************************************************
+ mstm calculation results
+ date, time:
+20250218 185638.774 
+ input file:
+mstm-v4.0-agg0-batch.inp
+****************************************************
+ input variables for run     1
+ sphere data input file:
+./aggregate_ptsa_files/agg_num=0_k=0.950_Df=2.35_meanRp=0.020um_rstdRp=0.10_Np=00020_Rve=0.052um_Rg=0.070um_epsagg=0.807.ptsa
+ number spheres
+   20
+ length, ref index scale factors
+  1.3221101E+01  1.0200000E+00  6.3000000E-01
+ volume cluster radius, area mean sphere radius, circumscribing radius, cross section radius
+  6.9323498E-01  2.5461766E-01  1.6718180E+00  6.9323498E-01
+ incident plane wave
+ incident alpha, beta(deg)
+  0.0000E+00  0.0000E+00
+ t matrix order:
+     7
+ layer 0 refractive index
+  1.0000E+00  0.0000E+00
+ number of plane boundaries 
+  0
+ max_iterations,solution_epsilon, mie_epsilon
+     10000  1.0000E-06  1.0000E-06
+ maximum Mie order, number of equations:
+   3       600
+ mean sphere Mie extinction, absorption efficiencies
+  4.5974E-01  4.5732E-01
+****************************************************
+ calculation results for run 
+           1
+ number iterations, error, solution time 
+     4  2.7399E-08  1.5154E-02
+ total extinction, absorption, scattering efficiencies (unpol, par, perp incidence)
+  1.1692E+00  1.1125E+00  5.6736E-02  1.1671E+00  1.1107E+00  5.6315E-02  1.1714E+00  1.1142E+00  5.7157E-02
+ scattering matrix in incident plane: 0 deg= z axis
+ forward scattering amplitude matrix (BH83,Eq3.12) 
+(  0.1403E+00, -0.1684E-01) (  0.1397E+00, -0.1878E-01) (  0.4975E-03,  0.2517E-02) (  0.5141E-03,  0.2748E-02) 
+ backward scattering amplitude matrix (BH83,Eq3.12) 
+(  0.4670E-01, -0.6342E-03) ( -0.4719E-01, -0.7289E-06) (  0.1715E-03, -0.8568E-03) ( -0.1736E-03,  0.8564E-03) 
+
